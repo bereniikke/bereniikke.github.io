@@ -28,16 +28,7 @@ p {
     text-align: center;
     font-weight: bold;
 }
-img {
-    height: 700px;
-}
 
-
-#image1 {
-    border: 3px solid black;
-    height: 500px;
-    filter: drop-shadow(1px 1px 1px black);
-}
 
 .navigation {
     position: fixed;
